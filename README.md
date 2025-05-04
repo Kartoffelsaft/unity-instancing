@@ -12,7 +12,7 @@ editor, so if you don't see a difference, try an exported version.*
 Unity luckily makes this quite easy. It simply involves checking a box in the
 material's inspector menu:
 
-![](./pictures/howtoenable.png)
+![](./images/howtoenable.png)
 
 Now, if there are several very similar objects that share this material, Unity
 will attempt to draw as many of them as possible in the same call.
@@ -22,7 +22,7 @@ will attempt to draw as many of them as possible in the same call.
 When running the demo (or your game) in the editor, clicking the bug icon at
 the top will bring out the frame debugger.
 
-![](./pictures/debug.png)
+![](./images/debug.png)
 
 If the relevant objects are labeled with "(instanced)", then GPU instancing is
 enabled and working for those objects.
