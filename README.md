@@ -3,6 +3,8 @@
 This is a demonstration of doing GPU instancing (AKA mesh instancing, geometry
 instancing) and it's performance implications.
 
+[Link to Demo](https://kartoffelsaft.itch.io/unity-instancing-demo?secret=UNM6qJUrPki51TAxyNPBALC35I)
+
 *NOTE: if you wish to try this out, there needs to be a GPU bottleneck to see a
 performance uplift. Unfortunately, Unity has a significant CPU overhead in the
 editor, so if you don't see a difference, try an exported version.*
